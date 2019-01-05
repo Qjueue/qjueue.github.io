@@ -1,29 +1,61 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: 广州深海软件股份有限公司
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: 主要负责公司品牌物料设计，包括海报，文化衫、台历等（包括平面、板绘）
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail:  2018.10-2018.12
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: 插画师
     i18n: company_a_job
   icon: fa-plus-square
+  color: ffc09f
 
 - name:
-    detail: Company B
+    detail: 广州洋基信息科技股份有限公司
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 主要负责公司运营 APP 的插画设计，以儿童插画为主，兼UI 设计助理
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 2018.06-2018.09
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: 插画师
     i18n: company_b_job
   icon: fa-plus-square
+  color: 4cb4e7
+
+- name:
+    detail: 广州麦岸营销策划有限公司  
+    i18n: company_b
+  desc:
+    detail: 主要负责平安普惠、浦力适除湿机的插画海报，微信推文插图和微博插图、条漫; 负责创维公司的小程序、H5 界面设计
+    i18n: company_b_desc
+  date:
+    detail: 2018.01-2018.05 
+    i18n: company_b_date
+  job:
+    detail: 插画师
+    i18n: company_b_job
+  icon: fa-plus-square
+  color: ffee98
+
+- name:
+    detail: 广州麦岸营销策划有限公司  
+    i18n: company_b
+  desc:
+    detail: 主要负责平安普惠、浦力适除湿机的插画海报，微信推文插图和微博插图、条漫; 负责创维公司的小程序、H5 界面设计
+    i18n: company_b_desc
+  date:
+    detail: 2018.01-2018.05 
+    i18n: company_b_date
+  job:
+    detail: 插画师
+    i18n: company_b_job
+  icon: fa-plus-square
+  color: e2dbbe

@@ -1,0 +1,11 @@
+---
+layout: default
+title: chahua
+permalink: /chahua.html
+---
+
+<div class="container">
+	{% for project in site.data.chahua %}
+	<img src="{{ project.src | prepend: site.baseurl }}" class="rounded float-left" alt="..." width="300px">
+	{% endfor %}
+</div>

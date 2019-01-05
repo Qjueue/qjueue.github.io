@@ -1,22 +1,20 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: 插画
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  url: /qjueue/chahua.html
+  img: /static/assets/img/landing/linmo.jpg
+  desc: 这是我临摹和创作的插画，包含节日插画、表情包、Q版人物等
 
-- name: Python
+- name: UI设计
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  url: /qjueue/ui.html
+  img: /static/assets/img/landing/chahua.jpg
+  desc: 毕设做的APP设计作品
 
-- name: Google
+- name: 工作图
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  url: /qjueue/work.html
+  img: /static/assets/img/landing/shigao.jpg
+  desc: 实习时候做的节日海报、儿童插画等，包含平面设计

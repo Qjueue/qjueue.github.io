@@ -1,43 +1,43 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Qjueue
-description: 雀角的个人网站
-keywords: 插画
-baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://qjueue.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+title: 雀角
+description: 雀角的网站
+keywords: 插画, 平面设计, UI
+baseurl:  /qjueue # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://qjueue.github.io/qjueue  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /qjueue/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: 雀角  # Be used at blog posts' author.
+  first_name: 陆  # Be used at index page about me section.
+  last_name: 有连  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Qjueue  # Leave blank if you don't have now
   linkedin_id: jarrekk # Leave blank if you don't have now
   facebook_username: jiakunnj  # Leave blank if you don't have now
   twitter_username: jiakun614  # Leave blank if you don't have now
-  email: qingyun039@163.com  # Leave blank if you don't have now
+  email: qjueue@163.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
+    - name: fa-paint-brush
     - name: fa-linux
   skill_icon2:
     - name: fa-linux
-    - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+    - name: fa-paint-brush
+  desc: 我于2019年毕业于广东工业大学，擅于用PS、SAI、AI绘图，擅长古风、扁平、Q版、唯美的插画，APP的UI设计，会做的平面设计、MG动画，表情包动图。 从大一的暑假就开始了第一份实习工作，已有一年多的实习经验，在营销策划公司、游戏公司、教育研发公司做过插画师、兼负责平面设计、UI设计。是视觉中国、创客贴的签约插画师。  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+#  name: jalpc
 
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-93473370-3
+#  id: UA-93473370-3
 
 ## google optimize
 go:
@@ -48,7 +48,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
